@@ -1,0 +1,5 @@
+pr_l     = GGATCCGAGCTCCACGTG
+pr_r     = TGCGACGGCAGGCGAATC
+format   = ANNXX
+codons   = 8
+
