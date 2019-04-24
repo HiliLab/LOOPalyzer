@@ -7,7 +7,7 @@ LOOPalayzer is a Python 2.7 program for analyzing LOOPER-generated aptamer libra
 
 Kong, D., Yeung, W., & Hili, R. (2017). In vitro selection of diversely functionalized aptamers. Journal of the American Chemical Society, 139(40), 13977-13980.
 
-Kong, D., Yeung, W., Movahedi M., Chen D., & Hili, R. (2019). Evaluation of the evolutionary outcomes of LOOPER-derived aptamers isolated from in vitro evolution. Manuscript in preparation.
+Kong, D., Yeung, W., Movahedi M., Chen D., & Hili, R. (2019). Evaluation of the evolutionary outcomes of LOOPER-derived aptamers isolated from in vitro evolution. Manuscript submitted.
 
 ## Prerequisites
 --------------------------------------------
@@ -55,10 +55,10 @@ All outputs will be in plain text format.
 
 | Output File| Description |
 | ---------- | ----------- |
-| <input>.count.tsv      | Lists all unique sequences in the sequencing file as tab separated values: field 1 is absolute counts, field 2 is proportion, field 3 is the unique sequence. |
-| <input>.reads.tsv      | Lists all sequences in the same order as <input>.counts.tsv: field 1 is absolute counts, field 2 is error analysis, field 3 is reading region. |
-| <input>.codons.txt     | Shows the distribution of codons found in the sequences and also shows a breakdown of errors found in the sequences. |
-| <input>.divergence.txt | This file is output if a reference distribution is provided. Shows the divergence of each codon position against the nonselective set |
+| filename.count.tsv      | Lists all unique sequences in the sequencing file as tab separated values: field 1 is absolute counts, field 2 is proportion, field 3 is the unique sequence. |
+| filename.reads.tsv      | Lists all sequences in the same order as <input>.counts.tsv: field 1 is absolute counts, field 2 is error analysis, field 3 is reading region. |
+| filename.codons.txt     | Shows the distribution of codons found in the sequences and also shows a breakdown of errors found in the sequences. |
+| filename.divergence.txt | This file is output if a reference distribution is provided. Shows the divergence of each codon position against the nonselective set |
 
 
 
