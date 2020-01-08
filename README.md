@@ -7,7 +7,7 @@ LOOPalayzer is a Python 2.7 program for analyzing LOOPER-generated aptamer libra
 
 [Kong, D., Yeung, W., & Hili, R. (2017). In vitro selection of diversely functionalized aptamers. Journal of the American Chemical Society, 139(40), 13977-13980.](https://pubs.acs.org/doi/10.1021/jacs.7b07241 "Click me!")
 
-Kong, D., Yeung, W., Movahedi M., Chen D., & Hili, R. (2019). Evaluation of the evolutionary outcomes of LOOPER-derived aptamers isolated from in vitro evolution. Manuscript submitted.
+[Kong, D., Movahedi, M., Mahdavi-Amiri, Y., Yeung, W., Tiburcio, T. R., Chen, D., & Hili, R. (2019). Evolutionary Outcomes of Diversely-Functionalized Aptamers Isolated from In Vitro Evolution. ACS synthetic biology.](https://pubs.acs.org/doi/abs/10.1021/acssynbio.9b00222 "Click me!")
 
 ## Prerequisites
 --------------------------------------------
